@@ -1,0 +1,5 @@
+.venv/
+.env
+src/feedback_v1.db
+**/__pycache__/
+.streamlit/
